@@ -4,7 +4,7 @@ Hey there! My name is Shivani Karingula and I am an aspiring data scientist. As 
 
 As for my background, I have a double-major Bachelor's degree from Rutgers Business School in Business Analytics & Information Technology as well as Supply Chain Management. During my time in undergrad, I completed two 1-year co-ops with leading multi-national companies in the field of supply chain and analytics. For my first co-op, I worked in the transportation department of Supply Chain at Shiseido, the fifth largest cosmetic company in the world. Later, I worked at Ethicon (Johnson & Johnson's medical devices company) as a Supply Chain Analytics Co-op where I spearheaded report automation projects utilizing Tableau and Python which resulted signifiant savings for the organization. 
 
-Post graduating from Rutgers, I switched gears and worked as an Implementation Consultant in the healthcare sector at Medidata Inc. After gaining valauble skills here, I decided it was time for me to make a career shift that aligns more with my interest in developing my technical knowledge, which is when I decided to pursue the Data Science Master's Certification Program with Simplilearn. 
+Post graduating from Rutgers, I switched gears and worked as an Implementation Consultant in the healthcare sector at Medidata Inc. After gaining valauble skills here, I decided it was time for me to make a career shift that aligns more with my interest in developing my technical knowledge, which is when I decided to pursue the Data Science Master's Certification Program from Simplilearn. 
 
 Now that you know a little more about me and how I got to where I am right now, feel free take a look at the projects I've worked on: 
 
@@ -63,11 +63,39 @@ ML Models: Logistic Regression, Decision Tree, Random Forest, SVM (Support Vecto
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 **Introduction:** 
-
+My pride and joy [**The Spice Voyage**] (thespicevoyage.com) is a food blog that I started two years ago to combine my passion for cooking, food travel, and writing. I've primarily stuck to static photography shots of the recipes I develop on my social media page and article style posts on my blog. But it's clear that video is THE format to delve into if you're looking for growth and engagement as a content creator in the current digital era. From Tiktok, Instagram Reels, to recently, Youtube Shorts, short-form videos do a great job of reaching your target audience and making them come back for more, that is, if you have the right strategy in place. Since I am looking to expand into video content for my recipes and restaurant reviews, I thought it'd be interesting to take a look at what some of the biggest food influencers on arguably the most prominent video platform, Youtube, have been doing to amass such a big following and level of engagemnt. These insights will allow me to create a content strategy for my Youtube channel that will eventually see results similar to those of these food Youtubers -- a loyal audience and opportunities for monetization.
 
 **Objective:** 
+For this project, I plan to connect to the Youtube API to grab channel statistic, video, and comment data for the following 10 Youtube food influencers (with a minimum of 1 million subscribers):
+1. You Suck at Cooking
+2. Joshua Weissman
+3. Babish Culinary Universe
+4. Marion's Kitchen
+5. Not Another Cooking Show
+6. Ethan Chlebowski
+7. Adam Ragusea
+8. Laura in the Kitchen
+9. Maangchi
+10. Pro Home Cooks
 
+After cleaning up and transforming this data, I will primarily use Exploratory Data Analysis (EDA) to draw the following insights:
+- Popular channels by subscribers 
+- Popular channels by views 
+- Total views, likes, dislikes, and comments of all videos by channel
+- Average # of likes, dislikes, and comments on each video by channel
+- Average engagement ratio (reactors vs. total viewers) for each channel
+- By year: subscribers, views, # of videos, likes, comments 
+- Top 10 food videos from all channels
 
+I will also analyze the data from each of these creators to answer some crucial content strategy questions such as: 
+1. What is the relation between views and engagement (likes/comments)? 
+2. How does video duration impact likes and comments on a video? 
+3. Does title length affect the number of views a video receives? 
+4. How many tags do good performing videos tend to have? What are the common tags among these 5. videos? 
+6. Across all these creators, how often do they upload and which days of the week do they tend to upload on? 
+7. What time of the year (by season and month) tends to produce the best performing food content? 
+
+After extracting these insights from the data, I will visualize the data in the form of an interactive Tableau analytics dashboard that will allow the user to see an aggregated view of these analytics across all ten Youtube food influencers as well as give them the option to drill down on these statistics based on a particular channel or by month/year. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
