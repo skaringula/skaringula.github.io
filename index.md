@@ -9,11 +9,11 @@ Post graduating from Rutgers, I switched gears and worked as an Implementation C
 Now that you know a little more about me and how I got to where I am right now, feel free take a look at the projects I've worked on: 
 
 
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects 
+## Projects 
 
 ### [Project No. 1: Healthcare (Binary Classification)](https://github.com/skaringula/Healthcare-Capstone-Project)
 <img src="/images/diabetes.png"/>
@@ -57,13 +57,13 @@ ML Models: Logistic Regression, Decision Tree, Random Forest, SVM (Support Vecto
 - ML Models: Random Forest Classifier
 
 
-### Projects Coming Soon
+## Projects Coming Soon
 
-### [Project No. 3: Youtube Food Influencer Analysis]
+### Project No. 3: Youtube Food Influencer Analysis
 <img src="images/youtube.png?raw=true"/>
 
 **Introduction:** 
-My pride and joy [**The Spice Voyage**] (thespicevoyage.com) is a food blog that I started two years ago to combine my passion for cooking, food travel, and writing. I've primarily stuck to static photography shots of the recipes I develop on my social media page and article style posts on my blog. But it's clear that video is THE format to delve into if you're looking for growth and engagement as a content creator in the current digital era. From Tiktok, Instagram Reels, to recently, Youtube Shorts, short-form videos do a great job of reaching your target audience and making them come back for more, that is, if you have the right strategy in place. Since I am looking to expand into video content for my recipes and restaurant reviews, I thought it'd be interesting to take a look at what some of the biggest food influencers on arguably the most prominent video platform, Youtube, have been doing to amass such a big following and level of engagemnt. These insights will allow me to create a content strategy for my Youtube channel that will eventually see results similar to those of these food Youtubers -- a loyal audience and opportunities for monetization.
+My pride and joy [**The Spice Voyage**](https://thespicevoyage.com/) is a food blog that I started two years ago to combine my passion for cooking, food travel, and writing. I've primarily stuck to static photography shots of the recipes I develop on my social media page and article style posts on my blog. But it's clear that video is THE format to delve into if you're looking for growth and engagement as a content creator in the current digital era. From Tiktok, Instagram Reels, to recently, Youtube Shorts, short-form videos do a great job of reaching your target audience and making them come back for more, that is, if you have the right strategy in place. Since I am looking to expand into video content for my recipes and restaurant reviews, I thought it'd be interesting to take a look at what some of the biggest food influencers on arguably the most prominent video platform, Youtube, have been doing to amass such a big following and level of engagemnt. These insights will allow me to create a content strategy for my Youtube channel that will eventually see results similar to those of these food Youtubers -- a loyal audience and opportunities for monetization.
 
 **Objective:** 
 For this project, I plan to connect to the Youtube API to grab channel statistic, video, and comment data for the following 10 Youtube food influencers (with a minimum of 1 million subscribers):
