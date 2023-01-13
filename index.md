@@ -2,7 +2,7 @@
 
 Hey there! My name is Shivani Karingula and I am an aspiring data scientist. As someone who has always been an inquisitive person, data science is a field that immediately caught my attention. It's something that not only allows me to use my analytical skills to answer questions and solve problems but it also gives me a chance to put my creativity and love for storytelling to use via data visualization. 
 
-As for my background, I have a double-major Bachelor's degree from Rutgers Business School in Business Analytics & Information Technology as well as Supply Chain Management. During my time in undergrad, I completed two 1-year co-ops with leading multi-national companies in the field of supply chain and analytics. For my first co-op, I worked in the transportation department of Supply Chain at Shiseido, the fifth largest cosmetic company in the world. Later, I worked at Ethicon (Johnson & Johnson's medical devices company) as a Supply Chain Analytics Co-op where I spearheaded report automation projects utilizing Tableau and Python which resulted signifiant savings for the organization. 
+As for my background, I have a double-major Bachelor's degree from Rutgers Business School in Business Analytics & Information Technology as well as Supply Chain Management. During my time in undergrad, I completed two co-ops with leading multi-national companies in the field of supply chain and analytics. For my first co-op, I worked in the transportation department of Supply Chain at Shiseido, the fifth largest cosmetic company in the world. Later, I worked at Ethicon (Johnson & Johnson's medical devices company) as a Supply Chain Analytics Co-op where I spearheaded report automation projects utilizing Tableau and Python which resulted signifiant savings for the organization. 
 
 Post graduating from Rutgers, I switched gears and worked as an Implementation Consultant in the healthcare sector at Medidata Inc. After gaining valauble skills here, I decided it was time for me to make a career shift that aligns more with my interest in developing my technical knowledge, which is when I decided to pursue the Data Science Master's Certification Program from Simplilearn. 
 
@@ -21,7 +21,7 @@ Now that you know a little more about me and how I got to where I am right now, 
 **Introduction:** NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases. The dataset used in this project is originally from NIDDK. The objective was to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.  
 
 **Objective:** 
-I completed this project for my capstone which was the final assessment for the Data Science Master's Program from Simplilearn. The objective of this project was to analyze the datasets from NIDKK to draw valauble insights from the medical predictor variables (glucose, insulin, blood pressure, etc.) and see how those impact the target variable (outcome - whether the patient is diagnosed with diabetes or not). After preliminary cleaning, transformation, and exploratory data analysis of the dataset, I moved on to train multiple classification algorithms for the prediction of diabetes in patients. I compared the performance of these models to find that the Random Forest machine learning model produced the best performance for this project. Lastly, I created a dashboard for the visualization the relationship between the parameters and the outcome in the data which can be found here.
+I completed this project for my capstone which was the final assessment for the Data Science Master's Program from Simplilearn. The objective of this project was to analyze the datasets from NIDKK to draw valauble insights from the medical predictor variables (glucose, insulin, blood pressure, etc.) and see how those impact the target variable (outcome - whether the patient is diagnosed with diabetes or not). After preliminary cleaning, transformation, and exploratory data analysis of the dataset, I moved on to train multiple classification algorithms for the prediction of diabetes in patients. I compared the performance of these models to find that the Random Forest machine learning model produced the best performance for this project. Lastly, I created a dashboard for the visualization the relationship between the parameters and the outcome in the data which can be found [here](https://public.tableau.com/views/HealthcareCapstone-DiabetesDashboard/DIABETES?:language=en-US&:display_count=n&:origin=viz_share_link) .
 
 **Tasks performed in this project:**
 - Data Cleaning
@@ -91,9 +91,9 @@ I will also analyze the data from each of these creators to answer some crucial 
 1. What is the relation between views and engagement (likes/comments)? 
 2. How does video duration impact likes and comments on a video? 
 3. Does title length affect the number of views a video receives? 
-4. How many tags do good performing videos tend to have? What are the common tags among these 5. videos? 
-6. Across all these creators, how often do they upload and which days of the week do they tend to upload on? 
-7. What time of the year (by season and month) tends to produce the best performing food content? 
+4. How many tags do good performing videos tend to have? What are the common tags among these 
+5. Across all these creators, how often do they upload and which days of the week do they tend to upload on? 
+6. What time of the year (by season and month) tends to produce the best performing food content? 
 
 After extracting these insights from the data, I will visualize the data in the form of an interactive Tableau analytics dashboard that will allow the user to see an aggregated view of these analytics across all ten Youtube food influencers as well as give them the option to drill down on these statistics based on a particular channel or by month/year. 
 
